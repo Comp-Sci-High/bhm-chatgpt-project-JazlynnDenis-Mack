@@ -1,0 +1,15 @@
+body {
+    font-family: 'Times New Roman', Times, serif !important;
+    margin: 0;
+    padding: 0;
+    background-color: #000; 
+}
+
+
+.image-text-container {
+    display: flex; /* Align the image and text in a row */
+    align-items: center; /* Vertically align the items */
+  }
+  
+
+  
