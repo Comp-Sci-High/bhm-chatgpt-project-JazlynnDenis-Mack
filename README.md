@@ -2,6 +2,6 @@
 # Black-History
 
 
-https://chatgpt.com/share/67c6765e-98a8-8009-ae2b-8aebec800d99
+https://chatgpt.com/share/67c6789c-a5b8-8009-b0c3-f5752f39c3c6
 
 https://chatgpt.com/share/67c71ed9-b988-8009-bf69-2c0ca4120db3
